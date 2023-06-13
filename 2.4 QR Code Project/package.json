@@ -1,0 +1,10 @@
+{
+  "name": "learnin-npm",
+  "description": "i'm learning about npm",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  }
+}
